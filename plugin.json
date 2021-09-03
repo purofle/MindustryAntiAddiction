@@ -1,0 +1,7 @@
+{
+  "name": "MindustryAntiAddiction",
+  "author": "purofle",
+  "main": "com.github.purofle.mindustryantiaddiction.AntiAddiction",
+  "description": "在 Mindustry 服务器内实现防沉迷系统.",
+  "version": 1.0
+}
